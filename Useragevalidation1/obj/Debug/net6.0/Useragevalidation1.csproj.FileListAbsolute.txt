@@ -1,0 +1,15 @@
+C:\Users\slend\source\repos\Week2\Useragevalidation1\bin\Debug\net6.0\Useragevalidation1.exe
+C:\Users\slend\source\repos\Week2\Useragevalidation1\bin\Debug\net6.0\Useragevalidation1.deps.json
+C:\Users\slend\source\repos\Week2\Useragevalidation1\bin\Debug\net6.0\Useragevalidation1.runtimeconfig.json
+C:\Users\slend\source\repos\Week2\Useragevalidation1\bin\Debug\net6.0\Useragevalidation1.dll
+C:\Users\slend\source\repos\Week2\Useragevalidation1\bin\Debug\net6.0\Useragevalidation1.pdb
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.csproj.AssemblyReference.cache
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.AssemblyInfoInputs.cache
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.AssemblyInfo.cs
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.csproj.CoreCompileInputs.cache
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.dll
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\refint\Useragevalidation1.dll
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.pdb
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\Useragevalidation1.genruntimeconfig.cache
+C:\Users\slend\source\repos\Week2\Useragevalidation1\obj\Debug\net6.0\ref\Useragevalidation1.dll
